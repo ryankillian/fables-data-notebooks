@@ -21,6 +21,8 @@ This repository contains Jupyter notebooks and related assets for the project fo
 
 - `data/`: All the primary datasets and relevant data files used across different analyses are stored in this directory.
 
+- `results/`: Directory contain finished motif mapping file.
+
 ## Here's a summarized description of our process:
 
 **Objective**:
