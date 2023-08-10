@@ -70,7 +70,7 @@ The main goal was to categorize a list of 700 fine-grained motifs into a smaller
    - Once the motifs were mapped to their respective general themes, we conducted a quantitative analysis to understand the distribution of fine-grained motifs among the general themes.
 
 
-**Outcome**:
+## Outcome:
 We successfully reduced the 700 fine-grained motifs into 8 coherent and general themes. This categorization should facilitate faster searching and better organization of the motifs for users. See `data/` and `results/`.
 
 Here's the distribution of fine-grained motifs across each general motif:
