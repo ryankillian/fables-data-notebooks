@@ -1,0 +1,7 @@
+aws comprehend start-topics-detection-job \
+    --input-data-config S3Uri=s3://fable-topics/gpt.txt \
+    --output-data-config S3Uri=s3://fable-topics \
+    --data-access-role-arn arn:aws:iam::<ACCOUNT_ID>:role/Comprehend-Fable-Role \
+    --job-name FableTopicModeling \
+    --number-of-topics 25 \
+    --region us-east-1
