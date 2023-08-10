@@ -73,15 +73,13 @@ We successfully reduced the 700 fine-grained motifs into 8 coherent and general 
 
 Here's the distribution of fine-grained motifs across each general motif:
 
-Awareness: 141 motifs
-Growth: 116 motifs
-Emotions: 104 motifs
-Deception: 91 motifs
-Values: 88 motifs
-Power: 85 motifs
-Collaboration: 43 motifs
-Choices: 31 motifs
+1. **Awareness**: 141 motifs
+2. **Growth**: 116 motifs
+3. **Emotions**: 104 motifs
+4. **Deception**: 91 motifs
+5. **Values**: 88 motifs
+6. **Power**: 85 motifs
+7. **Collaboration**: 43 motifs
+8. **Choices**: 31 motifs
 
 ---
-
-I hope this summary provides a clear overview of our process and accomplishments.
