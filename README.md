@@ -13,15 +13,10 @@ This repository contains Jupyter notebooks and related assets for the project fo
 
 ## Project Structure
 
-- `notebooks/`: Directory containing Jupyter notebooks detailing the process and methodologies used.
-- `data/`: Directory with datasets and relevant data files.
-- `results/`: Directory where processed results and outputs are stored.
+- `AWS-Comprehend/`: This directory contains AWS Comprehend analysis. It showcases the methodology adopted for leveraging AWS's natural language processing service to derive insights from the text data.
 
-## Getting Started
+- `BERT-Analysis`: Directory containing Jupyter notebooks that detail the use of BERT for natural language processing and motif analysis. These detail the process of extracting embeddings from the BERT model. These embeddings are later used in clustering and other analyses to understand patterns and topics within the text.
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/your_username/fables-motif-mapping.git
-   ```
-2. Navigate to the `notebooks/` directory and launch the desired notebook.
-3. Follow the steps within the notebook to reproduce or extend the results.
+- `KMeans-Clustering`: Directory containing Jupyter notebooks related to the KMeans clustering approach for motif mapping.
+
+- `data/`: All the primary datasets and relevant data files used across different analyses are stored in this directory.
